@@ -167,5 +167,6 @@
     .policy__svg {
         display: block;
         width: 50%;
+        fill: var(--second-brand-color);
     }
 }
